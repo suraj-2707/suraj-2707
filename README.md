@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on small web development and Android Projects  
   
 
-📫 You can reach me through my mail : surajkumarsikchi@gmail.com  
+- 📫 You can reach me through my mail : surajkumarsikchi@gmail.com  
   
 
 <br/>  
